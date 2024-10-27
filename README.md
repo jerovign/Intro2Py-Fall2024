@@ -11,10 +11,10 @@ This is a highly-intensive, hands-on workshop, where participants take the time 
 
 | Oct 21st: Organizing Metadata | Oct 28th: Handling Arrays | Nov 4th: Complex Data Structures | Nov 11th: Scientific Data Analysis  | (Skip Week) | Nov 25th: Scientific Reporting | Dec 2nd: Scientific Project Management |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Strings & Methods | Binary Data Storage for Arrays | Matrics & Images in Numpy Arrays | Logical Indexing | -- | Data Analysis Project 2 | Organizing Python Projects
-| Lists & Dicts |  Generating Array Data | Pandas DataFrames & HvPlot | Extracting & Filtering Data | -- | Statistical Analysis with Pingouin | Managing Dependencies with Conda
+| Strings & Methods | Binary Data Storage for Arrays |  |  | -- | Data Analysis Project 2 | Organizing Python Projects
+| Lists & Dicts |  Matrices & Images in Numpy Arrays | Pandas DataFrames & HvPlot | Extracting & Filtering Data | -- | Statistical Analysis with Pingouin | Managing Dependencies with Conda
 | Metadata Handling in Files | Plotting Signal Data | Groupby Analysis & Plotting with Seaborn | Experiment Design Analysis | -- | Making Slides from Notebooks | Course Evaluation
 | -- | -- | -- | -- | -- | -- | --
 | Indexing & Slicing | Numpy Review | Analysis with Pandas | Data Analysis Practice Project | -- | Data Analysis Practice Project 3 | --
-| Text Data Extraction |  Basic Frequency Analysis | XArray Data Arrays| DataFrame Reorganiztion | -- | -- | --
+| Text Data Extraction |  Logical Indexing | XArray Data Arrays| DataFrame Reorganiztion | -- | -- | --
 
